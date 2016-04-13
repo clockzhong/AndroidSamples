@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.android.packagename"
+        applicationId "com.example.android.basicglsurfaceview"
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
